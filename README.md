@@ -1,4 +1,5 @@
 # Airport Challenge
+This software is used to control the flow of planes at an airport
 
 ## About the Project
 
